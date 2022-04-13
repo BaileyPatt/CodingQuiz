@@ -1,6 +1,6 @@
 /* Name: Bailey Patt
  * Date: March 11, 2022
- * Description: Coding quiz
+ * Description: Coding quiz 
  */
 
 public class Apparel extends Product { //This is my Apparel class that extends the product class.

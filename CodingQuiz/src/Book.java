@@ -1,6 +1,6 @@
 /* Name: Bailey Patt
  * Date: March 11, 2022
- * Description: Coding quiz
+ * Description: Coding quiz 
  */
 public class Book extends Product { //This is my Book class that extends the product class.
 

@@ -7,7 +7,7 @@ public class ProductExample  {
 	private int quantity;
 	private char size;
 	private String author;
-	private String color;
+	private String color; 
 	
 	public ProductExample(String name, double price, String category, int quantity, char size, String color) {
 		super();

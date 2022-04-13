@@ -1,7 +1,7 @@
 /* Name: Bailey Patt
  * Date: March 11, 2022
  * Description: Coding quiz
- */
+ */ 
 
 public class Bath extends Product { //This is my Bath class that extends the product class.
 	

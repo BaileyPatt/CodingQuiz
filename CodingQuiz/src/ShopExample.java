@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShopExample {
+public class ShopExample { 
 	
 	static ProductExample[] inventory = {new ProductExample("Business Ritual Women’s Long Sleeve Top", 65.39, "Apparel", 4, 'L', "Blue"),
 						   new ProductExample("The Art of Computer Programming", 190.54, "Books", 9, "Donald E. Knuth"),
